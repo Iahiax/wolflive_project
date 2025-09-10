@@ -1,0 +1,5 @@
+aiohttp
+websocket-client
+requests
+pytest
+pytest-asyncio
